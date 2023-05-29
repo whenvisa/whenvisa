@@ -1894,3 +1894,16 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+tr {
+text-align: left;
+}
+
+table {
+  margin-top: 30px;
+}
+
+embed {
+  position: relative;
+  left: -7px;
+}
